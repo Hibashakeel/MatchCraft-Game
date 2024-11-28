@@ -1,0 +1,4 @@
+Player: HIBA, Moves: 9, Matches: 4, Victory: False
+Player: HIBA, Moves: 3, Matches: 0, Victory: False
+Player: hhhh, Moves: 18, Matches: 0, Victory: False
+Player: hhhh, Moves: 0, Matches: 0, Victory: False
